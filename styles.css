@@ -1,0 +1,37 @@
+ul {
+    list-style: none;
+    margin-left: 45%;
+
+
+}
+
+html {
+    background-color: yellow;
+}
+
+h1 {
+    margin-left: 40%;
+    margin-right: 37%;
+    
+}
+
+h2 {
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 100px;
+    
+}
+
+.headers {
+    background-color: greenyellow;
+
+}
+
+#Room {
+    padding: 35px;
+
+}
+
+.captn {
+    
+}
